@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Princeton Algorithms Assignment 3: Pattern Recognition.
+ * Princeton Algorithms Assignment 3: Pattern Recognition
  *
  * @author Milan Fan
  *
